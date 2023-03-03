@@ -27,6 +27,5 @@ end
 plot(x,y)
 
 function fx = f(x,y)
-   % prompt = "Enter ODE: ";
    fx = 2*x - y;
 end
